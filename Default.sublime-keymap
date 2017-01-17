@@ -1,0 +1,5 @@
+[
+   { "keys": ["ctrl+alt+g"], "command": "ins_smaller_then" },
+   { "keys": ["ctrl+alt+s"], "command": "ins_greater_then" },
+   { "keys": ["ctrl+alt+h"], "command": "ins_hor_bar" }
+]
