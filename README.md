@@ -5,6 +5,8 @@ Sublime Text Plugin for inserting '&lt;' , '>' and '|' (in case of keyboard limi
 
 Copy/Paste the two files in Sublime Text 3's Package/User/ Folder.  
 In case Default.sublime-keymap does already exist, just append the content.  
+  
+On Windows you might need to replace the "alt" with "shift" in the keymap file...  
 
 ###Usage
 
